@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy / プライバシーポリシー
+---
+
 # プライバシーポリシー
 
 最終更新日: 2026年3月29日
